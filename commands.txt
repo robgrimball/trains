@@ -1,0 +1,10 @@
+dist A B C
+dist A D
+dist A D C
+dist A E B C D
+dist A E D
+trips C C 0 3 S
+trips A C 4 4 S
+short A C
+short B B
+trips C C 0 29 D
